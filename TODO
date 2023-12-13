@@ -1,0 +1,16 @@
+1) Delete Multiple Function - COMPLETED
+2) Email Someone That An Update Has Been Made Using Python
+    Instead of Email, use a second sheet and make it similar to GitHub - COMPLETED
+3) Create a "Latest Save" File In Case Anyone Tampers With Sheet Without Python - COMPLETED
+4) Delete By Looking Up Organization Name - COMPLETED
+5) Updating Certain Information
+    Name, Position, Connection, Honorific, Rounds, Level,
+6) Make Dictionary With Org As Key And Make File Rewrite Itself When Sheet Changes??
+7) Make addOrg and addOrgs take a list instead of multiple variables - CANT DO
+8) Add to spreadsheet whenever email is sent out for sponsorship
+9) Compare Masterlist to Latest Save - COMPLETED
+10) Test what Hiding and Protecting a Sheet will do with Code - COMPLETED
+11) Make a TimeLastSaved Function - COMPLETED
+12) Put Row and Column of what's Different in CompareLastSaved
+13) Build a Restore Function if CompareLastSaved is not True - COMPLETED
+14) TimeLastCompared Function - COMPLETED
